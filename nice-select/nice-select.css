@@ -9,10 +9,10 @@
   display: block;
   float: left;
   font-family: inherit;
-  font-size: 14px;
+  font-size: 17px;
   font-weight: normal;
-  height: 42px;
-  line-height: 40px;
+  height: 100%;
+  line-height: normal;
   outline: none;
   padding-left: 18px;
   padding-right: 30px;
