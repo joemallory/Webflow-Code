@@ -1,4 +1,8 @@
-.nice-select .w-select {
+.nice-select.wide.w-select {
+  border-radius: 2px !important;
+}
+
+.nice-select {
   -webkit-tap-highlight-color: transparent;
   background-color: #fff;
   border-radius: 2px !important;
